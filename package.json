@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/postyizhan/lezi-wiki.git"
+    "url": "git+https://github.com/ZCRAFT-NPE/lezi-wiki.git"
   },
   "author": "postyizhan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/postyizhan/lezi-wiki/issues"
+    "url": "https://github.com/ZCRAFT-NPE/lezi-wiki/issues"
   },
-  "homepage": "https://github.com/postyizhan/lezi-wiki#readme",
+  "homepage": "https://github.com/ZCRAFT-NPE/lezi-wiki#readme",
   "devDependencies": {
     "@femm/prettier": "^1.1.0",
     "@femm/tailwind-config": "^1.0.0",
