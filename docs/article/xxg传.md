@@ -1,8 +1,9 @@
-# xxg传
+# xxg 传
 
-大佬QQ：1514846386
+404 Not Found
+为了网站合规性已删除此段内容
 
-# TrMenu啥前置
+# TrMenu 啥前置
 
 ![](/others/xxg传/1.png)
 
@@ -16,7 +17,7 @@
 
 ![](/others/xxg传/3-1.jpg)
 
-# name填什么
+# name 填什么
 
 ![](/others/xxg传/4.png)
 
@@ -74,7 +75,7 @@
 
 ![](/others/xxg传/22-1.png)
 
-# ChatGPT怎么看
+# ChatGPT 怎么看
 
 ![](/others/xxg传/23.png)
 
@@ -90,19 +91,19 @@
 
 ## 服务器揭秘
 
-服里没ia
+服里没 ia
 
 ### 插件的宣传语拿来宣传自己服
 
 ![](/others/xxg传/26.png)
 
-### qs实体店
+### qs 实体店
 
-系统商店用qs
+系统商店用 qs
 
 ![](/others/xxg传/27.png)
 
-### Superior端
+### Superior 端
 
 他一整个菜单都是复制粘贴的 Superior
 
@@ -114,15 +115,15 @@
 
 ![](/others/xxg传/29.png)
 
-### NotBuild和wg并存
+### NotBuild 和 wg 并存
 
-猜测：他不知道wg怎么用,也不想学,就又装了个插件
+猜测：他不知道 wg 怎么用,也不想学,就又装了个插件
 
 ![](/others/xxg传/30.png)
 
-### B站宣传
+### B 站宣传
 
-评论区说是1.12 所以这和xxg大佬到底啥关系
+评论区说是 1.12 所以这和 xxg 大佬到底啥关系
 
 https://www.bilibili.com/video/BV1CA4m1V7mg
 

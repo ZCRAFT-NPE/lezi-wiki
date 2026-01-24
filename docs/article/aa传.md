@@ -2,15 +2,8 @@
 
 ## 个人信息
 
-![](/others/aa传/个人信息-1.png)
-
-![](/others/aa传/个人信息-2.jpg)
-
-![](/others/aa传/个人信息-3.jpg)
-
-![](/others/aa传/个人信息-4.png)
-
-![](/others/aa传/个人信息-5.png)
+404 Not Found
+为了网站合规性已删除此段内容
 
 ## 广播纪元服务器
 
