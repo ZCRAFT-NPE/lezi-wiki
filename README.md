@@ -28,7 +28,7 @@
 
 # 🎖 贡献
 
-[![Contrib](https://contrib.rocks/image?repo=ZCRAFT-NPE/lezi-wiki-repo)](https://github.com/ZCRAFT-NPE/lezi-wiki-repo/graphs/contributors)
+[![Contrib](https://contrib.rocks/image?repo=ZCRAFT-NPE/lezi-wiki)](https://github.com/ZCRAFT-NPE/lezi-wiki/graphs/contributors)
 
 # 📢 说明
 
