@@ -44,10 +44,10 @@ export default defineConfig({
       label: '目录',
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/8aka-Team/lezi-wiki' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/ZCRAFT-NPE/lezi-wiki' }],
 
     footer: {
-      message: 'https://github.com/8aka-Team/lezi-wiki',
+      message: 'https://github.com/ZCRAFT-NPE/lezi-wiki',
       copyright: 'Copyright © 2019-present maomao',
     },
 
@@ -76,10 +76,10 @@ export default defineConfig({
     },
 
     comment: {
-      repo: '8aka-Team/lezi-wiki',
-      repoId: 'R_kgDONvQIMA',
+      repo: 'ZCRAFT-NPE/lezi-wiki',
+      repoId: 'R_kgDORAIBdw',
       category: 'Announcements',
-      categoryId: 'DIC_kwDONvQIMM4CoEX7',
+      categoryId: 'DIC_kwDORAIBd84C1Wk2',
     },
   },
 
