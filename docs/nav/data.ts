@@ -99,6 +99,12 @@ export const NAV_DATA: NavData[] = [
         desc: 'tick128，从0开始的宇宙级虚空优化传说！',
         link: '/article/七七转',
       },
+     {
+       icon: 'https://www.emojiall.com/images/60/apple/1f630.png',
+       title: '二人转2',
+       desc: '虚空造技术！重写了渲染管线！',
+       link: '/article/二人转2',
+     },
     ],
   },
   {
@@ -353,7 +359,6 @@ export const NAV_DATA: NavData[] = [
         desc: '投稿观察对象',
         link: 'https://github.com/ZCRAFT-NPE/lezi-wiki/issues',
       },
-
     ],
   },
 ]

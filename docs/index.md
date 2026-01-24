@@ -56,6 +56,16 @@ features:
     details: 还不是因为我太强了，嫉妒我牛逼
     link: /article/XeCraft服务器传（凌天传）
     linkText: 点击查看
+  - icon: 😅
+    title: 七七转
+    details: tick128，从0开始的宇宙级虚空优化传说！
+    link: /article/七七转
+    linkText: 点击查看
+  - icon: 😰
+    title: 二人转2
+    details: 虚空造技术！重写了渲染管线！
+    link: /article/二人转2
+    linkText: 点击查看
   - icon: 🚉
     title: 驿站与文档
     details: 笨蛋驿站自己的栏
