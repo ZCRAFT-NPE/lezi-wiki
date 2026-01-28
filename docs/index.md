@@ -16,51 +16,51 @@ hero:
       link: /nav/
       theme: alt
 features:
-  - icon: 🤏
-    title: 芷溪列传
-    details: 梦开始的地方
-    link: /article/芷溪列传
-    linkText: 点击查看
-  - icon: 📘
-    title: 程杰列传
-    details: 目前最长之传记
-    link: /article/程杰列传
-    linkText: 点击查看
-  - icon: 🎩
-    title: 土皇帝喵
-    details: 唯一一个非传记命名
-    link: /article/土皇帝喵
-    linkText: 点击查看
-  - icon: 🐒
-    title: 袁纸列传
-    details: 嘴炮成功案例(?)
-    link: /article/袁纸列传
-    linkText: 点击查看
-  - icon: 🌙
-    title: 月亮先生传
-    details: 月亮先生好像跟人打架进去了
-    link: /article/月亮先生传
-    linkText: 点击查看
-  - icon: 📕
-    title: 樱梦源服务器传
-    details: 我没圈钱！你想收我法院的传票，是么
-    link: /article/樱梦源服务器传
-    linkText: 点击查看
-  - icon: 🦅
-    title: 雄鹰传
-    details: 都快四十的人了还这么🍬
-    link: /article/雄鹰传
-    linkText: 点击查看
-  - icon: 😀
-    title: XeCraft 服务器传（凌天传）
-    details: 还不是因为我太强了，嫉妒我牛逼
-    link: /article/XeCraft服务器传（凌天传）
-    linkText: 点击查看
-  - icon: 😅
-    title: 七七转
-    details: tick128，从0开始的宇宙级虚空优化传说！
-    link: /article/七七转
-    linkText: 点击查看
+  # - icon: 🤏
+  #   title: 芷溪列传
+  #   details: 梦开始的地方
+  #   link: /article/芷溪列传
+  #   linkText: 点击查看
+  # - icon: 📘
+  #   title: 程杰列传
+  #   details: 目前最长之传记
+  #   link: /article/程杰列传
+  #   linkText: 点击查看
+  # - icon: 🎩
+  #   title: 土皇帝喵
+  #   details: 唯一一个非传记命名
+  #   link: /article/土皇帝喵
+  #   linkText: 点击查看
+  # - icon: 🐒
+  #   title: 袁纸列传
+  #   details: 嘴炮成功案例(?)
+  #   link: /article/袁纸列传
+  #   linkText: 点击查看
+  # - icon: 🌙
+  #   title: 月亮先生传
+  #   details: 月亮先生好像跟人打架进去了
+  #   link: /article/月亮先生传
+  #   linkText: 点击查看
+  # - icon: 📕
+  #   title: 樱梦源服务器传
+  #   details: 我没圈钱！你想收我法院的传票，是么
+  #   link: /article/樱梦源服务器传
+  #   linkText: 点击查看
+  # - icon: 🦅
+  #   title: 雄鹰传
+  #   details: 都快四十的人了还这么🍬
+  #   link: /article/雄鹰传
+  #   linkText: 点击查看
+  # - icon: 😀
+  #   title: XeCraft 服务器传（凌天传）
+  #   details: 还不是因为我太强了，嫉妒我牛逼
+  #   link: /article/XeCraft服务器传（凌天传）
+  #   linkText: 点击查看
+  # - icon: 😅
+  #   title: 七七转
+  #   details: tick128，从0开始的宇宙级虚空优化传说！
+  #   link: /article/七七转
+  #   linkText: 点击查看
   - icon: 😰
     title: 二人转2
     details: 虚空造技术！重写了渲染管线！

@@ -8,7 +8,11 @@ import { NAV_DATA } from './data'
 </script>
 <style src="./index.scss"></style>
 
-# Wiki导航
+# Wiki 导航
+
+::: tip
+为了 LeziWiki 的合规性，已临时下架之前由各大贡献者贡献的文章，待审核完成并处理完隐私内容后，将重新上线。NeoLeziWiki 将注重事件记录，将不会记录隐私内容。
+:::
 
 <MNavLinks v-for="{title, items} in NAV_DATA" :title="title" :items="items"/>
 

@@ -9,7 +9,7 @@ export const NAV_DATA: NavData[] = [
   {
     title: '长篇',
     items: [
-      {
+      /*{
         icon: 'https://www.emojiall.com/images/240/emojione/1f90f.png',
         title: '芷溪列传',
         desc: '梦开始的地方',
@@ -98,7 +98,7 @@ export const NAV_DATA: NavData[] = [
         title: '七七转',
         desc: 'tick128，从0开始的宇宙级虚空优化传说！',
         link: '/article/七七转',
-      },
+      },*/
      {
        icon: 'https://www.emojiall.com/images/60/apple/1f630.png',
        title: '二人转2',
@@ -110,7 +110,7 @@ export const NAV_DATA: NavData[] = [
   {
     title: '短篇',
     items: [
-      {
+      /*{
         icon: 'https://www.emojiall.com/images/240/apple/1f4b0.png',
         title: '我传',
         desc: '滚去要你的饭',
@@ -169,13 +169,13 @@ export const NAV_DATA: NavData[] = [
         title: 'G哥传',
         desc: '你的 i9 CPU还不如我的 E5-2699',
         link: '/article/G哥的i9级',
-      },
+      },*/
     ],
   },
   {
     title: '微篇',
     items: [
-      {
+      /*{
         icon: 'https://www.emojiall.com/images/240/microsoft-teams/1f4da.png',
         title: '微篇集合',
         desc: '中国崛起有希望了',
@@ -246,13 +246,13 @@ export const NAV_DATA: NavData[] = [
         title: '希哩哩传',
         desc: '理想主义者',
         link: '/article/希哩哩传',
-      },
+      },*/
     ],
   },
   {
     title: '其他人的瓜',
     items: [
-      {
+      /*{
         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
         title: 'tinksp管理an',
         desc: '剽窃开源配置倒卖',
@@ -347,7 +347,7 @@ export const NAV_DATA: NavData[] = [
         title: '5千兆的宽带',
         desc: '全人类感谢',
         link: '/article/5千兆的宽带',
-      },
+      },*/
     ],
   },
   {
